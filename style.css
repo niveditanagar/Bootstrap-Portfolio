@@ -1,0 +1,106 @@
+body{
+    color: #777777;
+}
+
+img {
+    float: left;
+    margin: 30px;
+}
+
+#bottomLine {
+    padding: 5px;
+    margin-bottom: 0%;
+    background-color: #4eaaa4;
+    width: 100%;
+
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    text-align: center;
+    background-color: #666666;
+    width: 100%;
+    color: white;
+}
+
+a {
+    text-decoration: none;
+    color: #777777;
+    padding: 5px;
+}
+
+#maincontent {
+    background-color: white;
+    font-size: large;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    font-style: italic;
+    line-height: 1.5;
+    width: 960px;
+    margin-top: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 60px;    
+    
+}
+
+h1 {
+    color:black;
+    font-family: 'Georgia', 'Times', 'Times New Roman', serif;
+    font-weight: bolder;
+    font-style: normal;
+    padding-left: 20px;
+    padding-top: 15px; 
+}
+
+h2 {
+    color:black;
+    font-family: 'Georgia', 'Times', 'Times New Roman', serif;
+    font-weight: bolder;
+    font-style: normal;
+    padding-left: 20px;
+    padding-top: 15px;
+    padding-bottom: -5px;
+}
+
+.textField {
+    width: 90%;
+    margin-top: 0px;
+    margin-left: 20px;
+    margin-right: 20px; 
+    height: 20px; 
+}
+
+#messageStyle {
+    height: 70px;
+}
+
+.bottomMargin {
+    margin-bottom: 0;
+    margin-left: 20px;
+}
+
+button {
+    margin-left: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-color: #4eaaa4;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    
+}
+
+hr {
+    background-color: #dddddd;
+    width: 95%;
+}
+
+.col-sm-3 {
+    margin: auto;
+    padding: auto;
+}
+
+
+
